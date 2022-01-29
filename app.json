@@ -1,0 +1,38 @@
+{
+    "name": "zuharay",
+    "description": "zuharay",
+    "keywords": ["zuharay"],
+    "env": {
+        "AA": {
+            "description": "参数修改",
+            "value": "有动手能力的才修改"
+        },
+        "AUUID": {
+            "description": "填入UUID",
+            "value": "8d9e12e2-f42a-4bdd-99e5-e7df2ffa4e20"
+        },
+        "CADDYIndexPage": {
+            "description": "伪装站点",
+            "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
+        },
+        "CONFIGCADDY": {
+            "description": "请勿修改",
+            "value": "https://raw.githubusercontent.com/ZuTp0N66I1PFsWL/zuharay/master/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "请勿修改",
+            "value": "https://raw.githubusercontent.com/ZuTp0N66I1PFsWL/zuharay/master/etc/xray.json"
+        },
+        "ParameterSSENCYPT": {
+            "description": "请勿修改",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "StoreFiles": {
+            "description": "请勿修改",
+            "value": "https://raw.githubusercontent.com/ZuTp0N66I1PFsWL/zuharay/master/etc/StoreFiles"
+        }
+    },
+    "website": "https://github.com/ZuTp0N66I1PFsWL/zuharay",
+    "repository": "https://github.com/ZuTp0N66I1PFsWL/zuharay",
+    "stack": "container"
+}
